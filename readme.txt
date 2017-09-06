@@ -1,14 +1,3 @@
-Hello World !!!!! I hate VIM already.
-yaaaaay
+Hello World!
 
-
-
-	i have made chanbges what more do you want?
-
-	git-it aint't getting it
-
-	lets try for the fifth time
-
-	beleirok
-
-	es meg es meg
+MAke a second line.
